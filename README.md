@@ -1,5 +1,9 @@
 ## この勉強会について
 
+### 資料
+
+[勉強会資料](https://github.com/myoan/unix-study/wiki)はwikiにて管理する予定です
+
 ### なぜ今更Unix?
 
 linuxカーネルは現在100万行と言われています。
